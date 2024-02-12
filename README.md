@@ -9,3 +9,5 @@ ppt<br>
 word <br>
 구글링, gpt, 보규형님의 영상강의 가 기여해준 문서입니다.
 제목을 잘 확인하고 필요한 파일을 다운받아 사용하시면 편리합니다!
+
+https://finna-ten.vercel.app/
